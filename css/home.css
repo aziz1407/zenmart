@@ -740,23 +740,8 @@
 .small_product_box img {
     position: absolute;
     right: 30px;
-    top: 40px;
+    bottom: 15px;
 }
 
-.small_product_box img.fourth {
-    position: absolute;
-    right: 30px;
-    top: 81px;
-}
 
-.small_product_box img.third {
-    position: absolute;
-    right: 30px;
-    top: 88px;
-}
 
-.small_product_box img.second {
-    position: absolute;
-    right: 30px;
-    top: 88px;
-}
